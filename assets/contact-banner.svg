@@ -72,35 +72,35 @@
   </g>
   <line x1="340" y1="58" x2="560" y2="58" stroke="url(#lineGrad)" stroke-width="1"/>
 
-  <!-- Sales Email Card (centred: x=115, w=320, centre=275) -->
+  <!-- Sales Email Card (x=80, w=340, centre=250) -->
   <g filter="url(#cardShadow)">
-    <rect x="115" y="78" width="320" height="95" rx="10" fill="url(#cardGrad)"/>
-    <rect x="115" y="78" width="320" height="95" rx="10" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
-    <rect x="115" y="78" width="4" height="95" rx="2" fill="url(#orangeAccent)"/>
+    <rect x="80" y="78" width="340" height="95" rx="10" fill="url(#cardGrad)"/>
+    <rect x="80" y="78" width="340" height="95" rx="10" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
+    <rect x="80" y="78" width="4" height="95" rx="2" fill="url(#orangeAccent)"/>
   </g>
-  <text x="275" y="108" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#e8750a" letter-spacing="3" font-weight="600">
+  <text x="250" y="108" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#e8750a" letter-spacing="3" font-weight="600">
     SALES &amp; INQUIRIES
   </text>
-  <text x="275" y="134" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="17" fill="#ffffff" font-weight="700">
+  <text x="250" y="134" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="17" fill="#ffffff" font-weight="700">
     sales@imperialsynergies.pk
   </text>
-  <text x="275" y="157" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#777777">
+  <text x="250" y="157" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#777777">
     For orders, quotes, and business inquiries
   </text>
 
-  <!-- IT Contact Card (centred: x=465, w=320, centre=625) -->
+  <!-- I.T. Contact Card (x=480, w=340, centre=650) -->
   <g filter="url(#cardShadow)">
-    <rect x="465" y="78" width="320" height="95" rx="10" fill="url(#cardGrad)"/>
-    <rect x="465" y="78" width="320" height="95" rx="10" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
-    <rect x="465" y="78" width="4" height="95" rx="2" fill="url(#orangeAccent)"/>
+    <rect x="480" y="78" width="340" height="95" rx="10" fill="url(#cardGrad)"/>
+    <rect x="480" y="78" width="340" height="95" rx="10" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
+    <rect x="480" y="78" width="4" height="95" rx="2" fill="url(#orangeAccent)"/>
   </g>
-  <text x="625" y="108" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#e8750a" letter-spacing="3" font-weight="600">
+  <text x="650" y="108" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#e8750a" letter-spacing="3" font-weight="600">
     CONTACT I.T.
   </text>
-  <text x="625" y="134" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#ffffff" font-weight="700">
+  <text x="650" y="134" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="15" fill="#ffffff" font-weight="700">
     aliakbarhyder@imperialsynergies.com
   </text>
-  <text x="625" y="157" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#777777">
+  <text x="650" y="157" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#777777">
     For technical and digital inquiries
   </text>
 </svg>
