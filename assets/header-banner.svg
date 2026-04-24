@@ -1,14 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="350" viewBox="0 0 900 350">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
   <defs>
     <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#060606"/>
       <stop offset="30%" stop-color="#0e0e0e"/>
       <stop offset="70%" stop-color="#121212"/>
       <stop offset="100%" stop-color="#080808"/>
-    </linearGradient>
-    <linearGradient id="orangeGlow" x1="0.5" y1="0" x2="0.5" y2="1">
-      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.08"/>
-      <stop offset="100%" stop-color="#e8750a" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="topFace" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#6a6a6a"/>
@@ -34,13 +30,6 @@
       <stop offset="0%" stop-color="#f5a623"/>
       <stop offset="100%" stop-color="#d4880c"/>
     </linearGradient>
-    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#e8750a" stop-opacity="0"/>
-      <stop offset="20%" stop-color="#e8750a" stop-opacity="0.4"/>
-      <stop offset="50%" stop-color="#f59e0b" stop-opacity="0.8"/>
-      <stop offset="80%" stop-color="#e8750a" stop-opacity="0.4"/>
-      <stop offset="100%" stop-color="#e8750a" stop-opacity="0"/>
-    </linearGradient>
     <linearGradient id="orangeBar" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#f59e0b"/>
       <stop offset="100%" stop-color="#d97706"/>
@@ -48,136 +37,93 @@
     <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse">
       <path d="M 50 0 L 0 0 0 50" fill="none" stroke="#ffffff" stroke-opacity="0.02" stroke-width="0.5"/>
     </pattern>
-    <filter id="shadow">
-      <feDropShadow dx="2" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.6"/>
+    <filter id="boxGlow">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#e8750a" flood-opacity="0.3"/>
     </filter>
     <filter id="orangeShadow">
       <feDropShadow dx="0" dy="0" stdDeviation="15" flood-color="#e8750a" flood-opacity="0.15"/>
     </filter>
-    <filter id="boxGlow">
-      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#e8750a" flood-opacity="0.3"/>
-    </filter>
   </defs>
 
   <!-- Background -->
-  <rect width="900" height="350" fill="url(#bgGrad)"/>
-  <rect width="900" height="350" fill="url(#grid)"/>
+  <rect width="900" height="300" fill="url(#bgGrad)"/>
+  <rect width="900" height="300" fill="url(#grid)"/>
   
-  <!-- Ambient glow spots -->
-  <ellipse cx="200" cy="160" rx="250" ry="180" fill="#e8750a" opacity="0.025"/>
-  <ellipse cx="700" cy="180" rx="250" ry="180" fill="#e8750a" opacity="0.025"/>
-  <ellipse cx="450" cy="200" rx="300" ry="120" fill="#e8750a" opacity="0.04"/>
+  <!-- Ambient glow -->
+  <ellipse cx="450" cy="150" rx="350" ry="130" fill="#e8750a" opacity="0.035"/>
+  <ellipse cx="200" cy="140" rx="200" ry="150" fill="#e8750a" opacity="0.02"/>
+  <ellipse cx="700" cy="140" rx="200" ry="150" fill="#e8750a" opacity="0.02"/>
 
-  <!-- === 3D ISOMETRIC BOX CLUSTER - LEFT === -->
-  
-  <!-- Large box - back left (with glow) -->
-  <g transform="translate(55, 70)" opacity="0.5" filter="url(#boxGlow)">
+  <!-- 3D BOX CLUSTER - LEFT -->
+  <g transform="translate(55, 50)" opacity="0.5" filter="url(#boxGlow)">
     <polygon points="50,0 100,25 50,50 0,25" fill="url(#topFaceLight)"/>
     <polygon points="0,25 50,50 50,115 0,90" fill="url(#leftFaceLight)"/>
     <polygon points="50,50 100,25 100,90 50,115" fill="url(#rightFaceLight)"/>
   </g>
-  
-  <!-- Medium box stacked -->
-  <g transform="translate(85, 38)" opacity="0.4">
+  <g transform="translate(85, 18)" opacity="0.4">
     <polygon points="35,0 70,17 35,35 0,17" fill="url(#topFace)"/>
     <polygon points="0,17 35,35 35,75 0,57" fill="url(#leftFace)"/>
     <polygon points="35,35 70,17 70,57 35,75" fill="url(#rightFace)"/>
   </g>
-
-  <!-- Small floating box -->
-  <g transform="translate(25, 190)" opacity="0.3">
+  <g transform="translate(25, 170)" opacity="0.3">
     <polygon points="22,0 44,11 22,22 0,11" fill="url(#topFace)"/>
     <polygon points="0,11 22,22 22,50 0,39" fill="url(#leftFace)"/>
     <polygon points="22,22 44,11 44,39 22,50" fill="url(#rightFace)"/>
   </g>
-
-  <!-- Tiny accent box -->
-  <g transform="translate(160, 210)" opacity="0.2">
+  <g transform="translate(160, 190)" opacity="0.2">
     <polygon points="14,0 28,7 14,14 0,7" fill="url(#topFace)"/>
     <polygon points="0,7 14,14 14,32 0,25" fill="url(#leftFace)"/>
     <polygon points="14,14 28,7 28,25 14,32" fill="url(#rightFace)"/>
   </g>
-
-  <!-- Extra depth box far left -->
-  <g transform="translate(130, 140)" opacity="0.25">
+  <g transform="translate(130, 120)" opacity="0.25">
     <polygon points="18,0 36,9 18,18 0,9" fill="url(#topFace)"/>
     <polygon points="0,9 18,18 18,42 0,33" fill="url(#leftFace)"/>
     <polygon points="18,18 36,9 36,33 18,42" fill="url(#rightFace)"/>
   </g>
 
-  <!-- === 3D ISOMETRIC BOX CLUSTER - RIGHT === -->
-  
-  <!-- Large box - right (with glow) -->
-  <g transform="translate(720, 50)" opacity="0.5" filter="url(#boxGlow)">
+  <!-- 3D BOX CLUSTER - RIGHT -->
+  <g transform="translate(720, 30)" opacity="0.5" filter="url(#boxGlow)">
     <polygon points="55,0 110,27 55,55 0,27" fill="url(#topFaceLight)"/>
     <polygon points="0,27 55,55 55,125 0,97" fill="url(#leftFaceLight)"/>
     <polygon points="55,55 110,27 110,97 55,125" fill="url(#rightFaceLight)"/>
   </g>
-
-  <!-- Medium stacked box -->
-  <g transform="translate(745, 15)" opacity="0.4">
+  <g transform="translate(745, -5)" opacity="0.4">
     <polygon points="38,0 76,19 38,38 0,19" fill="url(#topFace)"/>
     <polygon points="0,19 38,38 38,78 0,59" fill="url(#leftFace)"/>
     <polygon points="38,38 76,19 76,59 38,78" fill="url(#rightFace)"/>
   </g>
-
-  <!-- Small floating box right -->
-  <g transform="translate(830, 190)" opacity="0.3">
+  <g transform="translate(830, 170)" opacity="0.3">
     <polygon points="20,0 40,10 20,20 0,10" fill="url(#topFace)"/>
     <polygon points="0,10 20,20 20,46 0,36" fill="url(#leftFace)"/>
     <polygon points="20,20 40,10 40,36 20,46" fill="url(#rightFace)"/>
   </g>
-
-  <!-- Tiny accent box right -->
-  <g transform="translate(700, 210)" opacity="0.2">
+  <g transform="translate(700, 190)" opacity="0.2">
     <polygon points="16,0 32,8 16,16 0,8" fill="url(#topFace)"/>
     <polygon points="0,8 16,16 16,36 0,28" fill="url(#leftFace)"/>
     <polygon points="16,16 32,8 32,28 16,36" fill="url(#rightFace)"/>
   </g>
-  
-  <!-- Extra depth box far right -->
-  <g transform="translate(680, 130)" opacity="0.25">
+  <g transform="translate(680, 110)" opacity="0.25">
     <polygon points="18,0 36,9 18,18 0,9" fill="url(#topFace)"/>
     <polygon points="0,9 18,18 18,42 0,33" fill="url(#leftFace)"/>
     <polygon points="18,18 36,9 36,33 18,42" fill="url(#rightFace)"/>
   </g>
 
   <!-- Floating particles -->
-  <circle cx="190" cy="100" r="1.5" fill="#e8750a" opacity="0.4"/>
-  <circle cx="250" cy="260" r="1" fill="#e8750a" opacity="0.3"/>
-  <circle cx="650" cy="90" r="1.5" fill="#e8750a" opacity="0.4"/>
-  <circle cx="710" cy="270" r="1" fill="#e8750a" opacity="0.3"/>
-  <circle cx="450" cy="50" r="1" fill="#ffffff" opacity="0.15"/>
-  <circle cx="350" cy="290" r="1" fill="#ffffff" opacity="0.1"/>
-  <circle cx="550" cy="300" r="1" fill="#ffffff" opacity="0.1"/>
+  <circle cx="190" cy="80" r="1.5" fill="#e8750a" opacity="0.4"/>
+  <circle cx="250" cy="240" r="1" fill="#e8750a" opacity="0.3"/>
+  <circle cx="650" cy="70" r="1.5" fill="#e8750a" opacity="0.4"/>
+  <circle cx="710" cy="250" r="1" fill="#e8750a" opacity="0.3"/>
+  <circle cx="450" cy="30" r="1" fill="#ffffff" opacity="0.15"/>
+  <circle cx="350" cy="260" r="1" fill="#ffffff" opacity="0.1"/>
+  <circle cx="550" cy="270" r="1" fill="#ffffff" opacity="0.1"/>
 
-  <!-- === HORIZONTAL ACCENT LINES === -->
-  <line x1="170" y1="150" x2="340" y2="150" stroke="url(#lineGrad)" stroke-width="1.5" opacity="0.4"/>
-  <line x1="560" y1="150" x2="730" y2="150" stroke="url(#lineGrad)" stroke-width="1.5" opacity="0.4"/>
-  <line x1="220" y1="240" x2="680" y2="240" stroke="url(#lineGrad)" stroke-width="0.8" opacity="0.2"/>
-
-  <!-- === MAIN TEXT === -->
-  <g filter="url(#shadow)">
-    <text x="450" y="170" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="4">
-      <tspan fill="#ffffff">IMPERIAL </tspan><tspan fill="#e8750a">SYNERGIES</tspan>
-    </text>
-  </g>
-  
-  <!-- Subtitle -->
-  <text x="450" y="202" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#888888" letter-spacing="10" font-weight="300">
-    ( PVT )  LTD.
-  </text>
-
-  <!-- Tagline with glow -->
+  <!-- Tagline -->
   <g filter="url(#orangeShadow)">
-    <text x="450" y="270" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#cccccc" letter-spacing="3" font-weight="400">
+    <text x="450" y="250" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#cccccc" letter-spacing="3" font-weight="400" font-style="italic">
       Crafting Excellence in Every Package
     </text>
   </g>
 
   <!-- Bottom accent bar -->
-  <rect x="395" y="288" width="110" height="2.5" rx="1.2" fill="url(#orangeBar)" opacity="0.7"/>
-
-  <!-- Subtle bottom fade -->
-  <rect x="0" y="330" width="900" height="20" fill="url(#bgGrad)" opacity="0.9"/>
+  <rect x="395" y="268" width="110" height="2.5" rx="1.2" fill="url(#orangeBar)" opacity="0.7"/>
 </svg>
