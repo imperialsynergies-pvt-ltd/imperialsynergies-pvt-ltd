@@ -4,22 +4,20 @@
 
 <div align="center">
 
-<!-- Hero Banner with 3D Box Design -->
+<!-- Hero Banner with 3D Box Design (background only — logo below) -->
 <img src="https://raw.githubusercontent.com/imperialsynergies-pvt-ltd/imperialsynergies-pvt-ltd/main/assets/header-banner.svg" alt="Imperial Synergies Banner" width="100%"/>
 
-<br/>
-
-<!-- Logo -->
-<img src="https://raw.githubusercontent.com/imperialsynergies-pvt-ltd/imperialsynergies-pvt-ltd/main/assets/imperial-logo.png" alt="Imperial Synergies Logo" width="320"/>
+<!-- Logo placed over the banner area -->
+<img src="https://raw.githubusercontent.com/imperialsynergies-pvt-ltd/imperialsynergies-pvt-ltd/main/assets/imperial-logo.png" alt="Imperial Synergies Logo" width="360"/>
 
 <br/><br/>
 
-<!-- Badges -->
-[![Website](https://img.shields.io/badge/🌐_Website-imperialsynergies.com-E8750A?style=for-the-badge&labelColor=0a0a0a)](https://imperialsynergies.com)
+<!-- Badges (non-linking) -->
+<img src="https://img.shields.io/badge/🌐_Website-imperialsynergies.com-E8750A?style=for-the-badge&labelColor=0a0a0a" alt="Website"/>
 &nbsp;
-[![Industry](https://img.shields.io/badge/📦_Industry-Premium_Packaging-555555?style=for-the-badge&labelColor=0a0a0a)](https://imperialsynergies.com)
+<img src="https://img.shields.io/badge/📦_Industry-Premium_Packaging-555555?style=for-the-badge&labelColor=0a0a0a" alt="Industry"/>
 &nbsp;
-[![Location](https://img.shields.io/badge/📍_Location-Pakistan-E8750A?style=for-the-badge&labelColor=0a0a0a)](https://imperialsynergies.com)
+<img src="https://img.shields.io/badge/📍_Location-Pakistan-E8750A?style=for-the-badge&labelColor=0a0a0a" alt="Location"/>
 
 </div>
 
@@ -137,11 +135,11 @@ We're proud to partner with some of **Pakistan's most recognized brands**:
 
 <br/>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
 
 </div>
 
@@ -159,13 +157,13 @@ We're proud to partner with some of **Pakistan's most recognized brands**:
 
 <br/><br/>
 
-[![Sales Email](https://img.shields.io/badge/Sales-sales@imperialsynergies.pk-E8750A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:sales@imperialsynergies.pk)
+<a href="mailto:sales@imperialsynergies.pk"><img src="https://img.shields.io/badge/Sales-sales@imperialsynergies.pk-E8750A?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=0a0a0a" alt="Sales Email"/></a>
 &nbsp;&nbsp;
-[![IT Contact](https://img.shields.io/badge/Contact_IT-aliakbarhyder@imperialsynergies.com-555555?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:aliakbarhyder@imperialsynergies.com)
+<a href="mailto:aliakbarhyder@imperialsynergies.com"><img src="https://img.shields.io/badge/Contact_I.T.-aliakbarhyder@imperialsynergies.com-555555?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=0a0a0a" alt="I.T. Contact"/></a>
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Visit_Our_Website-imperialsynergies.com-E8750A?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0a0a0a)](https://imperialsynergies.com)
+<a href="https://imperialsynergies.com"><img src="https://img.shields.io/badge/Visit_Our_Website-imperialsynergies.com-E8750A?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0a0a0a" alt="Website"/></a>
 
 <br/><br/>
 
@@ -176,5 +174,5 @@ We're proud to partner with some of **Pakistan's most recognized brands**:
 <img src="https://raw.githubusercontent.com/imperialsynergies-pvt-ltd/imperialsynergies-pvt-ltd/main/assets/footer.svg" width="100%"/>
 
 <div align="center">
-<sub>© 2025 Imperial Synergies (Pvt) Ltd. All rights reserved.</sub>
+<sub>© 2026 Imperial Synergies (Pvt) Ltd. All rights reserved.</sub>
 </div>
