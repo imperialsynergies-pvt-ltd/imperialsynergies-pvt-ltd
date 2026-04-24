@@ -4,13 +4,8 @@
 
 <div align="center">
 
-<!-- Hero Banner — 3D box background decoration -->
-<img src="https://raw.githubusercontent.com/imperialsynergies-pvt-ltd/imperialsynergies-pvt-ltd/main/assets/header-banner.svg" alt="Imperial Synergies Banner" width="100%"/>
-
-<!-- Company Logo -->
-<img src="https://raw.githubusercontent.com/imperialsynergies-pvt-ltd/imperialsynergies-pvt-ltd/main/assets/imperial-logo.png" alt="Imperial Synergies Logo" width="380"/>
-
-<sub><i>Crafting Excellence in Every Package</i></sub>
+<!-- Combined Header: 3D box background + Logo + Tagline -->
+<img src="https://raw.githubusercontent.com/imperialsynergies-pvt-ltd/imperialsynergies-pvt-ltd/main/assets/header-combined.png" alt="Imperial Synergies — Crafting Excellence in Every Package" width="100%"/>
 
 <br/><br/>
 
