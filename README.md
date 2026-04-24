@@ -36,10 +36,6 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/imperialsynergies-pvt-ltd/imperialsynergies-pvt-ltd/main/assets/ispl-mark.png" alt="ISPL Box Mark" width="160"/>
-
-<br/><br/>
-
 ### <span>Our Past Is What Builds Our Future</span>
 
 **Imperial Synergies** was founded with a strong commitment to **quality and innovation**,
