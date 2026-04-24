@@ -10,7 +10,7 @@
 <br/>
 
 <!-- Logo -->
-<img src="https://raw.githubusercontent.com/imperialsynergies-pvt-ltd/imperialsynergies-pvt-ltd/main/assets/imperial-logo.png" alt="Imperial Synergies Logo" width="280"/>
+<img src="https://raw.githubusercontent.com/imperialsynergies-pvt-ltd/imperialsynergies-pvt-ltd/main/assets/imperial-logo.png" alt="Imperial Synergies Logo" width="320"/>
 
 <br/><br/>
 
@@ -32,40 +32,33 @@
 <img src="https://raw.githubusercontent.com/imperialsynergies-pvt-ltd/imperialsynergies-pvt-ltd/main/assets/section-about.svg" width="100%"/>
 </div>
 
+<div align="center">
+
 <br/>
 
-<table>
-<tr>
-<td width="60%">
-
-### Our Past Is What Builds Our Future
-
-**Imperial Synergies** was founded with a strong commitment to **quality and innovation**, with the goal of introducing fresh perspectives into a traditional marketplace. We recognize that packaging is far more than just a container — it is a vital extension of **your brand identity**.
-
-From initial concept to market distribution, we work closely with you to deliver **customized, high-quality packaging solutions**. We carefully consider key factors such as budget, timelines, materials, and production methods to ensure the best possible outcome.
-
-By continuously investing in **cutting-edge technology**, skilled talent, and industry best practices, we provide innovative and sustainable packaging that not only protects your product but also **strengthens your brand's impact** in the marketplace.
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://raw.githubusercontent.com/imperialsynergies-pvt-ltd/imperialsynergies-pvt-ltd/main/assets/ispl-mark.png" alt="ISPL Box Mark" width="180"/>
+<img src="https://raw.githubusercontent.com/imperialsynergies-pvt-ltd/imperialsynergies-pvt-ltd/main/assets/ispl-mark.png" alt="ISPL Box Mark" width="160"/>
 
 <br/><br/>
 
-```
- ┌──────────────────────┐
- │  ◆ Premium Quality    │
- │  ◆ Custom Solutions   │
- │  ◆ Eco-Friendly       │
- │  ◆ Fast Turnaround    │
- │  ◆ Nationwide Reach   │
- └──────────────────────┘
-```
+### <span>Our Past Is What Builds Our Future</span>
 
-</td>
-</tr>
-</table>
+**Imperial Synergies** was founded with a strong commitment to **quality and innovation**,
+with the goal of introducing fresh perspectives into a traditional marketplace.
+We recognize that packaging is far more than just a container — it is a vital extension of **your brand identity**.
+
+From initial concept to market distribution, we work closely with you to deliver
+**customized, high-quality packaging solutions**. We carefully consider key factors such as
+budget, timelines, materials, and production methods to ensure the best possible outcome.
+
+By continuously investing in **cutting-edge technology**, skilled talent, and industry best practices,
+we provide innovative and sustainable packaging that not only protects your product
+but also **strengthens your brand's impact** in the marketplace.
+
+<br/>
+
+⬥ **Premium Quality** &nbsp;&nbsp;·&nbsp;&nbsp; ⬥ **Custom Solutions** &nbsp;&nbsp;·&nbsp;&nbsp; ⬥ **Eco-Friendly** &nbsp;&nbsp;·&nbsp;&nbsp; ⬥ **Fast Turnaround** &nbsp;&nbsp;·&nbsp;&nbsp; ⬥ **Nationwide Reach**
+
+</div>
 
 <!-- ─────────────────── STATS ─────────────────── -->
 
@@ -86,71 +79,22 @@ By continuously investing in **cutting-edge technology**, skilled talent, and in
 <img src="https://raw.githubusercontent.com/imperialsynergies-pvt-ltd/imperialsynergies-pvt-ltd/main/assets/section-capabilities.svg" width="100%"/>
 </div>
 
-<br/>
-
 <div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 📦
-### Corrugated Boxes
-Heavy-duty boxes engineered for maximum protection and brand presentation
-
-</td>
-<td align="center" width="25%">
-
-### 🎁
-### Premium Bags
-Elegant, high-quality bags tailored to elevate your brand experience
-
-</td>
-<td align="center" width="25%">
-
-### 🎂
-### Cake Boards
-Sturdy, food-safe cake boards crafted for the confectionery industry
-
-</td>
-<td align="center" width="25%">
-
-### ⚙️
-### Custom Solutions
-Bespoke packaging designed around your exact specifications
-
-</td>
-</tr>
-</table>
-</div>
 
 <br/>
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-  
-**🏭 State-of-the-Art Manufacturing**
+📦 **Corrugated Boxes** — Heavy-duty boxes engineered for maximum protection and brand presentation
+
+🎁 **Premium Bags** — Elegant, high-quality bags tailored to elevate your brand experience
+
+🎂 **Cake Boards** — Sturdy, food-safe cake boards crafted for the confectionery industry
+
+⚙️ **Custom Solutions** — Bespoke packaging designed around your exact specifications
+
 <br/>
-<sub>Advanced facilities equipped with the latest production technology</sub>
 
-</td>
-<td align="center" width="33%">
+🏭 **State-of-the-Art Manufacturing** · 🌿 **Sustainable & Eco-Friendly** · 🤝 **Dedicated Customer Support**
 
-**🌿 Sustainable & Eco-Friendly**
-<br/>
-<sub>Committed to environmentally responsible packaging solutions</sub>
-
-</td>
-<td align="center" width="33%">
-
-**🤝 Dedicated Customer Support**
-<br/>
-<sub>End-to-end partnership from concept to delivery</sub>
-
-</td>
-</tr>
-</table>
 </div>
 
 <!-- ─────────────────── DIVIDER ─────────────────── -->
@@ -163,9 +107,9 @@ Bespoke packaging designed around your exact specifications
 <img src="https://raw.githubusercontent.com/imperialsynergies-pvt-ltd/imperialsynergies-pvt-ltd/main/assets/section-partners.svg" width="100%"/>
 </div>
 
-<br/>
-
 <div align="center">
+
+<br/>
 
 We're proud to partner with some of **Pakistan's most recognized brands**:
 
@@ -175,7 +119,7 @@ We're proud to partner with some of **Pakistan's most recognized brands**:
 
 <br/>
 
-<sub><b>Trusted by 30+ leading brands across Pakistan</b></sub>
+**Trusted by 30+ leading brands across Pakistan**
 
 </div>
 
@@ -189,9 +133,9 @@ We're proud to partner with some of **Pakistan's most recognized brands**:
 <img src="https://raw.githubusercontent.com/imperialsynergies-pvt-ltd/imperialsynergies-pvt-ltd/main/assets/section-tech.svg" width="100%"/>
 </div>
 
-<br/>
-
 <div align="center">
+
+<br/>
 
 *Our digital presence is powered by modern technologies:*
 
@@ -215,11 +159,13 @@ We're proud to partner with some of **Pakistan's most recognized brands**:
 
 <br/>
 
-### 📬&nbsp;&nbsp;Get In Touch
+<img src="https://raw.githubusercontent.com/imperialsynergies-pvt-ltd/imperialsynergies-pvt-ltd/main/assets/contact-banner.svg" alt="Contact Us" width="100%"/>
 
-<br/>
+<br/><br/>
 
-[![Email](https://img.shields.io/badge/Email-aliakbarhyder@imperialsynergies.com-E8750A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:aliakbarhyder@imperialsynergies.com)
+[![Sales Email](https://img.shields.io/badge/Sales-sales@imperialsynergies.pk-E8750A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:sales@imperialsynergies.pk)
+&nbsp;&nbsp;
+[![IT Contact](https://img.shields.io/badge/Contact_IT-aliakbarhyder@imperialsynergies.com-555555?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:aliakbarhyder@imperialsynergies.com)
 
 <br/>
 

@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="100" viewBox="0 0 900 100">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="110" viewBox="0 0 900 110">
   <defs>
     <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0a0a0a"/>
-      <stop offset="100%" stop-color="#111111"/>
+      <stop offset="0%" stop-color="#080808"/>
+      <stop offset="100%" stop-color="#0e0e0e"/>
     </linearGradient>
     <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#e8750a" stop-opacity="0"/>
@@ -10,58 +10,70 @@
       <stop offset="100%" stop-color="#e8750a" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="topFace" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#555"/>
-      <stop offset="100%" stop-color="#444"/>
+      <stop offset="0%" stop-color="#6a6a6a"/>
+      <stop offset="100%" stop-color="#505050"/>
     </linearGradient>
     <linearGradient id="leftFace" x1="1" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#3a3a3a"/>
+      <stop offset="0%" stop-color="#4a4a4a"/>
       <stop offset="100%" stop-color="#2a2a2a"/>
     </linearGradient>
     <linearGradient id="rightFace" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#e8750a"/>
-      <stop offset="100%" stop-color="#c2710a"/>
+      <stop offset="0%" stop-color="#f0920e"/>
+      <stop offset="100%" stop-color="#c47009"/>
+    </linearGradient>
+    <linearGradient id="orangeBar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#d97706"/>
     </linearGradient>
   </defs>
 
-  <rect width="900" height="100" fill="url(#bgGrad)"/>
+  <rect width="900" height="110" fill="url(#bgGrad)"/>
   
-  <!-- Top divider line -->
-  <line x1="50" y1="10" x2="850" y2="10" stroke="url(#lineGrad)" stroke-width="1"/>
+  <!-- Top divider -->
+  <line x1="50" y1="8" x2="850" y2="8" stroke="url(#lineGrad)" stroke-width="1"/>
 
-  <!-- Small decorative boxes - left -->
-  <g transform="translate(100, 35)" opacity="0.3">
+  <!-- 3D box cluster left -->
+  <g transform="translate(80, 30)" opacity="0.35">
+    <polygon points="14,0 28,7 14,14 0,7" fill="url(#topFace)"/>
+    <polygon points="0,7 14,14 14,34 0,27" fill="url(#leftFace)"/>
+    <polygon points="14,14 28,7 28,27 14,34" fill="url(#rightFace)"/>
+  </g>
+  <g transform="translate(115, 42)" opacity="0.25">
     <polygon points="10,0 20,5 10,10 0,5" fill="url(#topFace)"/>
-    <polygon points="0,5 10,10 10,22 0,17" fill="url(#leftFace)"/>
-    <polygon points="10,10 20,5 20,17 10,22" fill="url(#rightFace)"/>
+    <polygon points="0,5 10,10 10,25 0,20" fill="url(#leftFace)"/>
+    <polygon points="10,10 20,5 20,20 10,25" fill="url(#rightFace)"/>
   </g>
-  
-  <g transform="translate(140, 45)" opacity="0.2">
+  <g transform="translate(55, 55)" opacity="0.18">
     <polygon points="8,0 16,4 8,8 0,4" fill="url(#topFace)"/>
-    <polygon points="0,4 8,8 8,18 0,14" fill="url(#leftFace)"/>
-    <polygon points="8,8 16,4 16,14 8,18" fill="url(#rightFace)"/>
+    <polygon points="0,4 8,8 8,20 0,16" fill="url(#leftFace)"/>
+    <polygon points="8,8 16,4 16,16 8,20" fill="url(#rightFace)"/>
   </g>
 
-  <!-- Small decorative boxes - right -->
-  <g transform="translate(750, 35)" opacity="0.3">
+  <!-- 3D box cluster right -->
+  <g transform="translate(770, 30)" opacity="0.35">
+    <polygon points="14,0 28,7 14,14 0,7" fill="url(#topFace)"/>
+    <polygon points="0,7 14,14 14,34 0,27" fill="url(#leftFace)"/>
+    <polygon points="14,14 28,7 28,27 14,34" fill="url(#rightFace)"/>
+  </g>
+  <g transform="translate(805, 42)" opacity="0.25">
     <polygon points="10,0 20,5 10,10 0,5" fill="url(#topFace)"/>
-    <polygon points="0,5 10,10 10,22 0,17" fill="url(#leftFace)"/>
-    <polygon points="10,10 20,5 20,17 10,22" fill="url(#rightFace)"/>
+    <polygon points="0,5 10,10 10,25 0,20" fill="url(#leftFace)"/>
+    <polygon points="10,10 20,5 20,20 10,25" fill="url(#rightFace)"/>
   </g>
-
-  <g transform="translate(790, 45)" opacity="0.2">
+  <g transform="translate(750, 55)" opacity="0.18">
     <polygon points="8,0 16,4 8,8 0,4" fill="url(#topFace)"/>
-    <polygon points="0,4 8,8 8,18 0,14" fill="url(#leftFace)"/>
-    <polygon points="8,8 16,4 16,14 8,18" fill="url(#rightFace)"/>
+    <polygon points="0,4 8,8 8,20 0,16" fill="url(#leftFace)"/>
+    <polygon points="8,8 16,4 16,16 8,20" fill="url(#rightFace)"/>
   </g>
 
   <!-- Footer text -->
-  <text x="450" y="50" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#777777" letter-spacing="3" font-weight="400">
+  <text x="450" y="50" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#777777" letter-spacing="4" font-weight="400">
     IMPERIAL SYNERGIES (PVT) LTD.
   </text>
-  <text x="450" y="72" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#555555" letter-spacing="1">
+  <text x="450" y="72" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#555555" letter-spacing="2">
     Premium Packaging Solutions  ·  Pakistan
   </text>
 
   <!-- Bottom accent -->
-  <rect x="400" y="85" width="100" height="2" rx="1" fill="#e8750a" opacity="0.4"/>
+  <rect x="405" y="88" width="90" height="2" rx="1" fill="url(#orangeBar)" opacity="0.5"/>
 </svg>

@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="50%" stop-color="#111111"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a1a1a"/>
+      <stop offset="100%" stop-color="#131313"/>
+    </linearGradient>
+    <linearGradient id="orangeAccent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#e8750a"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e8750a" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#e8750a" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#e8750a" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="topFace" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#6a6a6a"/>
+      <stop offset="100%" stop-color="#505050"/>
+    </linearGradient>
+    <linearGradient id="leftFace" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#4a4a4a"/>
+      <stop offset="100%" stop-color="#2a2a2a"/>
+    </linearGradient>
+    <linearGradient id="rightFace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f0920e"/>
+      <stop offset="100%" stop-color="#c47009"/>
+    </linearGradient>
+    <filter id="cardShadow">
+      <feDropShadow dx="0" dy="3" stdDeviation="10" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+    <filter id="glowText">
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#e8750a" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" rx="14" fill="url(#bgGrad)"/>
+  <rect width="900" height="200" rx="14" fill="none" stroke="#e8750a" stroke-opacity="0.08" stroke-width="1"/>
+
+  <!-- Decorative 3D boxes -->
+  <g transform="translate(60, 40)" opacity="0.2">
+    <polygon points="15,0 30,7 15,15 0,7" fill="url(#topFace)"/>
+    <polygon points="0,7 15,15 15,35 0,27" fill="url(#leftFace)"/>
+    <polygon points="15,15 30,7 30,27 15,35" fill="url(#rightFace)"/>
+  </g>
+  <g transform="translate(810, 130)" opacity="0.2">
+    <polygon points="15,0 30,7 15,15 0,7" fill="url(#topFace)"/>
+    <polygon points="0,7 15,15 15,35 0,27" fill="url(#leftFace)"/>
+    <polygon points="15,15 30,7 30,27 15,35" fill="url(#rightFace)"/>
+  </g>
+  <g transform="translate(830, 40)" opacity="0.15">
+    <polygon points="10,0 20,5 10,10 0,5" fill="url(#topFace)"/>
+    <polygon points="0,5 10,10 10,25 0,20" fill="url(#leftFace)"/>
+    <polygon points="10,10 20,5 20,20 10,25" fill="url(#rightFace)"/>
+  </g>
+  <g transform="translate(40, 140)" opacity="0.15">
+    <polygon points="10,0 20,5 10,10 0,5" fill="url(#topFace)"/>
+    <polygon points="0,5 10,10 10,25 0,20" fill="url(#leftFace)"/>
+    <polygon points="10,10 20,5 20,20 10,25" fill="url(#rightFace)"/>
+  </g>
+
+  <!-- Title -->
+  <g filter="url(#glowText)">
+    <text x="450" y="48" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="20" fill="#e8750a" font-weight="700" letter-spacing="5">
+      GET IN TOUCH
+    </text>
+  </g>
+  <line x1="340" y1="58" x2="560" y2="58" stroke="url(#lineGrad)" stroke-width="1"/>
+
+  <!-- Sales Email Card -->
+  <g filter="url(#cardShadow)">
+    <rect x="120" y="78" width="310" height="90" rx="10" fill="url(#cardGrad)"/>
+    <rect x="120" y="78" width="310" height="90" rx="10" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
+    <rect x="120" y="78" width="4" height="90" rx="2" fill="url(#orangeAccent)"/>
+  </g>
+  <text x="145" y="108" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#e8750a" letter-spacing="3" font-weight="600">
+    SALES &amp; INQUIRIES
+  </text>
+  <text x="145" y="132" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#ffffff" font-weight="600">
+    sales@imperialsynergies.pk
+  </text>
+  <text x="145" y="152" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#777777">
+    For orders, quotes, and business inquiries
+  </text>
+
+  <!-- IT Contact Card -->
+  <g filter="url(#cardShadow)">
+    <rect x="470" y="78" width="310" height="90" rx="10" fill="url(#cardGrad)"/>
+    <rect x="470" y="78" width="310" height="90" rx="10" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
+    <rect x="470" y="78" width="4" height="90" rx="2" fill="url(#orangeAccent)"/>
+  </g>
+  <text x="495" y="108" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#e8750a" letter-spacing="3" font-weight="600">
+    CONTACT IT
+  </text>
+  <text x="495" y="132" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#ffffff" font-weight="600">
+    aliakbarhyder@imperialsynergies.com
+  </text>
+  <text x="495" y="152" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#777777">
+    For technical and digital inquiries
+  </text>
+</svg>
