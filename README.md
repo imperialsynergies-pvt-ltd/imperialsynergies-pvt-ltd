@@ -171,12 +171,11 @@ We're proud to partner with some of **Pakistan's most recognized brands**:
 
 <br/>
 
-| | | | |
-|:---:|:---:|:---:|:---:|
-| [![Layers](https://img.shields.io/badge/Layers_Bakeshop-E8750A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMyA3djEwbDkgNSA5LTV2LTEweiIvPjwvc3ZnPg==&logoColor=white)](https://layers.pk) | [![Broadway](https://img.shields.io/badge/Broadway_Pizza-333333?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMyA3djEwbDkgNSA5LTV2LTEweiIvPjwvc3ZnPg==&logoColor=white)](https://broadwaypizza.com.pk) | [![Hico](https://img.shields.io/badge/Hico_Ice_Cream-E8750A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMyA3djEwbDkgNSA5LTV2LTEweiIvPjwvc3ZnPg==&logoColor=white)](https://hico.pk) | [![IPAK](https://img.shields.io/badge/IPAK_Films-333333?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMyA3djEwbDkgNSA5LTV2LTEweiIvPjwvc3ZnPg==&logoColor=white)](https://ipak.com.pk) |
-| [![Mastertiles](https://img.shields.io/badge/Master_Tiles-333333?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMyA3djEwbDkgNSA5LTV2LTEweiIvPjwvc3ZnPg==&logoColor=white)](#) | [![Regal](https://img.shields.io/badge/Regal-E8750A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMyA3djEwbDkgNSA5LTV2LTEweiIvPjwvc3ZnPg==&logoColor=white)](#) | [![Mayfair](https://img.shields.io/badge/Mayfair-333333?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMyA3djEwbDkgNSA5LTV2LTEweiIvPjwvc3ZnPg==&logoColor=white)](#) | [![Chawla](https://img.shields.io/badge/Chawla-E8750A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMyA3djEwbDkgNSA5LTV2LTEweiIvPjwvc3ZnPg==&logoColor=white)](#) |
+<img src="https://raw.githubusercontent.com/imperialsynergies-pvt-ltd/imperialsynergies-pvt-ltd/main/assets/partners-grid.png" alt="Our Partners — Broadway Pizza, Layers, Kolson, Mayfair, Oppo, Four Brothers, Chawla, Jotun, Bliss, Bata, Ndure, Gourmet, Zenith, Urbansole, M Foods, Kaizen Paint, Borjan, Khyber, SPEL, PopNosh, Polly, Apex Solar, and more" width="90%"/>
 
-<sub><b>…and many more leading brands across Pakistan</b></sub>
+<br/>
+
+<sub><b>Trusted by 30+ leading brands across Pakistan</b></sub>
 
 </div>
 
